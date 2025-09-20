@@ -1,0 +1,71 @@
+
+{
+  "login": {
+    "subtitle": "Agriculture intelligente pour un avenir sûr",
+    "title": "Content de vous revoir",
+    "description": "Entrez vos identifiants pour accéder à votre tableau de bord de la ferme.",
+    "emailLabel": "E-mail",
+    "passwordLabel": "Mot de passe",
+    "loginButton": "Connexion",
+    "signupPrompt": "Vous n'avez pas de compte ?",
+    "signupLink": "S'inscrire"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Aperçu de l'état de votre ferme",
+    "soilMoisture": "Humidité du sol",
+    "trendingUpwards": "Tendance à la hausse",
+    "remoteBuzzer": "Buzzer à distance",
+    "activateBuzzer": "Activer le buzzer",
+    "buzzerDescription": "Dissuadez à distance les animaux de vos cultures.",
+    "animalIntrusionAlerts": "Alertes d'intrusion d'animaux"
+  },
+  "alerts": {
+    "title": "Notifications",
+    "subtitle": "Restez informé de toutes les activités de la ferme",
+    "animalTab": "Animal",
+    "systemTab": "Système",
+    "communityTab": "Communauté",
+    "critical": "Critique"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Gérez votre profil et vos préférences",
+    "profile": {
+      "title": "Informations sur le profil",
+      "description": "Ces informations permettent de personnaliser votre expérience.",
+      "name": "Nom complet",
+      "farmLocation": "Emplacement de la ferme",
+      "farmLocationDescription": "Utilisé pour les alertes localisées et la météo.",
+      "cropType": "Type de culture principal",
+      "cropTypeDescription": "Aide à identifier les menaces de ravageurs pertinentes."
+    },
+    "language": {
+      "title": "Langue",
+      "english": "Anglais",
+      "tamil": "Tamoul",
+      "french": "Français",
+      "japanese": "Japonais"
+    },
+    "sound": {
+      "title": "Son",
+      "enableSoundEffects": "Activer les effets sonores"
+    },
+    "saveButton": "Enregistrer tous les paramètres",
+    "logoutButton": "Déconnexion"
+  },
+  "nav": {
+    "dashboard": "Tableau de bord",
+    "alerts": "Alertes",
+    "settings": "Paramètres"
+  },
+  "animalAlerts": {
+    "simulateIntrusion": "Simuler une intrusion",
+    "recentEvents": "Événements récents",
+    "noRecentIntrusions": "Aucune intrusion récente détectée.",
+    "intrusionAlert": "Alerte d'intrusion",
+    "detected": "Détecté",
+    "alert": "Alerte",
+    "logged": "Enregistré"
+  }
+}

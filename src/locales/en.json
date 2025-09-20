@@ -1,0 +1,71 @@
+
+{
+  "login": {
+    "subtitle": "Smart Farming for a Secure Future",
+    "title": "Welcome Back",
+    "description": "Enter your credentials to access your farm dashboard.",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "signupPrompt": "Don't have an account?",
+    "signupLink": "Sign up"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Overview of your farm's status",
+    "soilMoisture": "Soil Moisture",
+    "trendingUpwards": "Trending upwards",
+    "remoteBuzzer": "Remote Buzzer",
+    "activateBuzzer": "Activate Buzzer",
+    "buzzerDescription": "Remotely deter animals from your crops.",
+    "animalIntrusionAlerts": "Animal Intrusion Alerts"
+  },
+  "alerts": {
+    "title": "Notifications",
+    "subtitle": "Stay updated on all farm activities",
+    "animalTab": "Animal",
+    "systemTab": "System",
+    "communityTab": "Community",
+    "critical": "Critical"
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your profile and preferences",
+    "profile": {
+      "title": "Profile Information",
+      "description": "This information helps customize your experience.",
+      "name": "Full Name",
+      "farmLocation": "Farm Location",
+      "farmLocationDescription": "Used for localized alerts and weather.",
+      "cropType": "Primary Crop Type",
+      "cropTypeDescription": "Helps in identifying relevant pest threats."
+    },
+    "language": {
+      "title": "Language",
+      "english": "English",
+      "tamil": "Tamil",
+      "french": "French",
+      "japanese": "Japanese"
+    },
+    "sound": {
+      "title": "Sound",
+      "enableSoundEffects": "Enable Sound Effects"
+    },
+    "saveButton": "Save All Settings",
+    "logoutButton": "Logout"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "alerts": "Alerts",
+    "settings": "Settings"
+  },
+  "animalAlerts": {
+    "simulateIntrusion": "Simulate Intrusion",
+    "recentEvents": "Recent Events",
+    "noRecentIntrusions": "No recent intrusions detected.",
+    "intrusionAlert": "Intrusion Alert",
+    "detected": "Detected",
+    "alert": "Alert",
+    "logged": "Logged"
+  }
+}

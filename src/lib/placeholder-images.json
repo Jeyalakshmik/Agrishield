@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "deer",
+      "description": "A majestic deer in a field.",
+      "imageUrl": "https://picsum.photos/seed/deer/200/200",
+      "imageHint": "deer field"
+    },
+    {
+      "id": "rabbit",
+      "description": "A small rabbit in the grass.",
+      "imageUrl": "https://picsum.photos/seed/rabbit/200/200",
+      "imageHint": "rabbit grass"
+    },
+    {
+      "id": "bird",
+      "description": "A bird perched on a branch.",
+      "imageUrl": "https://picsum.photos/seed/bird/200/200",
+      "imageHint": "bird branch"
+    },
+    {
+      "id": "fox",
+      "description": "A cunning fox in the woods.",
+      "imageUrl": "https://picsum.photos/seed/fox/200/200",
+      "imageHint": "fox forest"
+    }
+  ]
+}

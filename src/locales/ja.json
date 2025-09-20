@@ -1,0 +1,71 @@
+
+{
+  "login": {
+    "subtitle": "安全な未来のためのスマート農業",
+    "title": "おかえりなさい",
+    "description": "農場のダッシュボードにアクセスするには、資格情報を入力してください。",
+    "emailLabel": "Eメール",
+    "passwordLabel": "パスワード",
+    "loginButton": "ログイン",
+    "signupPrompt": "アカウントをお持ちではありませんか？",
+    "signupLink": "サインアップ"
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "subtitle": "農場の状況の概要",
+    "soilMoisture": "土壌水分",
+    "trendingUpwards": "上昇傾向",
+    "remoteBuzzer": "リモートブザー",
+    "activateBuzzer": "ブザーを有効にする",
+    "buzzerDescription": "作物から動物を遠隔で追い払います。",
+    "animalIntrusionAlerts": "動物侵入警報"
+  },
+  "alerts": {
+    "title": "通知",
+    "subtitle": "すべての農場活動について最新情報を入手してください",
+    "animalTab": "動物",
+    "systemTab": "システム",
+    "communityTab": "コミュニティ",
+    "critical": "クリティカル"
+  },
+  "settings": {
+    "title": "設定",
+    "subtitle": "プロフィールと設定を管理します",
+    "profile": {
+      "title": "プロフィール情報",
+      "description": "この情報は、エクスペリエンスをカスタマイズするのに役立ちます。",
+      "name": "フルネーム",
+      "farmLocation": "農場の場所",
+      "farmLocationDescription": "ローカライズされたアラートと天気に使用されます。",
+      "cropType": "主な作物の種類",
+      "cropTypeDescription": "関連する害虫の脅威を特定するのに役立ちます。"
+    },
+    "language": {
+      "title": "言語",
+      "english": "英語",
+      "tamil": "タミル語",
+      "french": "フランス語",
+      "japanese": "日本語"
+    },
+    "sound": {
+      "title": "サウンド",
+      "enableSoundEffects": "効果音を有効にする"
+    },
+    "saveButton": "すべての設定を保存",
+    "logoutButton": "ログアウト"
+  },
+  "nav": {
+    "dashboard": "ダッシュボード",
+    "alerts": "アラート",
+    "settings": "設定"
+  },
+  "animalAlerts": {
+    "simulateIntrusion": "侵入をシミュレート",
+    "recentEvents": "最近のイベント",
+    "noRecentIntrusions": "最近の侵入は検出されませんでした。",
+    "intrusionAlert": "侵入警報",
+    "detected": "検出済み",
+    "alert": "アラート",
+    "logged": "記録済み"
+  }
+}
